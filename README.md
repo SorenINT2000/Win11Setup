@@ -61,6 +61,7 @@ Open **Policy Plus** and navigate to the following paths. These settings prevent
 - [Steam](https://store.steampowered.com/about/)
 - [Cursor](https://cursor.com/get-started)
 - [Docker](https://www.docker.com/products/docker-desktop/)
+- [WindHawk](https://windhawk.net/)
 
 ## Windows Settings
 
@@ -184,3 +185,9 @@ OneSettings is the task that is responsible for this.
 
 3. Set "Disable OneSettings Downloads" to Enabled and "Enable OneSettings Auditing" to Disabled
 
+# WindHawk Configuration
+
+- Windows 11 Taskbar Styler: Luminosity (Aeris)
+- Windows 11 Start Menu Styler: TintedGlass
+- Windows 11 File Explorer Styler: TintedGlass
+- Disable rounded corners in Windows 11 (Settings > Advanced Settings > Add dwm.exe to Process inclusion list)
